@@ -534,43 +534,43 @@
     "Aberrant Shield Pattern Analysis": {
       "es": "Análisis de Patrón de Escudo Aberrantes",
       "de": null,
-      "fr": null,
+      "fr": "Analyse de modèle de bouclier aberrante",
       "ru": null
     },
     "Abnormal Compact Emission Data": {
       "es": "Compresión de Datos de Transmisiones Anormal",
       "de": null,
-      "fr": null,
+      "fr": "Données d'émissions anormales compactes",
       "ru": null
     },
     "Adaptive Encryptors Capture": {
       "es": "Captura de Encriptadores Adaptativos",
       "de": null,
-      "fr": null,
+      "fr": "Capture d'encrypteurs adaptatifs",
       "ru": null
     },
     "Anomalous Bulk Scan Data": {
       "es": "Datos de Escáner en Bruto Anómalos",
       "de": "Anormale Massen-Scan-Daten",
-      "fr": null,
+      "fr": "Analyse de données de grandeur anormale",
       "ru": null
     },
     "Anomalous FSD Telemetry": {
       "es": "Telemetría de MDD Anómala",
       "de": "Anormale FSA-Telemetrie",
-      "fr": null,
+      "fr": "Télémétrie FSD anormale",
       "ru": null
     },
     "Antimony": {
       "es": "Antimonio",
       "de": "Antimon",
-      "fr": null,
+      "fr": "Antimoine",
       "ru": null
     },
     "Arsenic": {
       "es": "Arsénico",
       "de": "Arsen",
-      "fr": null,
+      "fr": "Arsenic",
       "ru": "Мышьяк"
     },
     "Articulation Motors": {
