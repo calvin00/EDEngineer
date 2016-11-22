@@ -1,4 +1,4 @@
-﻿{
+{
   "LanguageInfos": {
     "en": {
       "TwoLetterISOLanguageName": "en",
@@ -22,8 +22,8 @@
     },
     "ru": {
       "TwoLetterISOLanguageName": "ru",
-      "Name": "Русский",
-      "NotReadyWarning": "Этот перевод является неполным! Если вы выберете его - будет переведена только часть приложения. Недостающий перевод будет отображаться на Английском языке."
+      "Name": "???????",
+      "NotReadyWarning": "???? ??????? ???????? ????????! ???? ?? ???????? ??? - ????? ?????????? ?????? ????? ??????????. ??????????? ??????? ????? ???????????? ?? ?????????? ?????."
     }
   },
   "Translations": {
@@ -55,7 +55,7 @@
       "es": "Arma Eficiente",
       "de": "Waffeneffizienz",
       "fr": "Arme efficace",
-      "ru": "Эффективное Оружие"
+      "ru": "??????????? ??????"
     },
     "Lightweight Mount": {
       "es": "Anclaje Ligero",
@@ -79,7 +79,7 @@
       "es": "Anclaje Robusto",
       "de": "Robustes Gestell",
       "fr": "Montage Robuste",
-      "ru": "Прочное Крепление"
+      "ru": "??????? ?????????"
     },
     "Longer Range FSD interdictor": {
       "es": "Interdictor de MDD de Largo Alcance",
@@ -127,7 +127,7 @@
       "es": "Cargador de Alta Capacidad",
       "de": "Hochleistungsmagazin",
       "fr": "Chargeur grande capacité",
-      "ru": "Вместительный Магазин"
+      "ru": "????????????? ???????"
     },
     "Kinetic Resistant ": {
       "es": "Resistencia Cinética ",
@@ -139,7 +139,7 @@
       "es": "Arma Concentrada",
       "de": "Waffenfokus",
       "fr": "Arme efficace",
-      "ru": "Сфокусированное Оружие"
+      "ru": "??????????????? ??????"
     },
     "Thermal Resistant Shields": {
       "es": "Escudos de Resistencia Térmica",
@@ -151,13 +151,13 @@
       "es": "Modificación de Tiro Rápido",
       "de": "Schnellfeuermodifikation",
       "fr": "Modification tir rapide",
-      "ru": "Увеличение Cкорострельности"
+      "ru": "?????????? C???????????????"
     },
     "Long Range Weapon": {
       "es": "Arma de Largo Alcance",
       "de": "Ferndistanzwaffe",
       "fr": "Armes longue portée",
-      "ru": "Увеличенная Дальность"
+      "ru": "??????????? ?????????"
     },
     "Ammo Capacity": {
       "es": "Capacidad de Munición",
@@ -169,7 +169,7 @@
       "es": "Arma Sobrecargada",
       "de": "Überladungswaffe",
       "fr": "Arme surchargée",
-      "ru": "Усиленное Оружие"
+      "ru": "????????? ??????"
     },
     "Low Emissions ": {
       "es": "Bajas Emisiones ",
@@ -181,7 +181,7 @@
       "es": "Orientado a Sistemas ",
       "de": "Systemfokussierte ",
       "fr": "Optimisé systèmes",
-      "ru": "Системо-ориентированный"
+      "ru": "???????-???????????????"
     },
     "Lightweight ": {
       "es": "Aligerado ",
@@ -211,13 +211,13 @@
       "es": "Modificación de Motor Sucio",
       "de": "Aggressives Antriebstuning",
       "fr": "Optimisation de réacteur détériorante",
-      "ru": "«Грязная» Донастройка"
+      "ru": "«???????» ???????????"
     },
     "Engine Focused ": {
       "es": "Orientado a Motor ",
       "de": "Antriebsfokussierte ",
       "fr": "Optimisé moteur",
-      "ru": "Двигатель-ориентированный"
+      "ru": "?????????-???????????????"
     },
     "Kinetic Resistant Hull Reinforcement": {
       "es": "Refuerzo Estructural de Resistencia Cinética",
@@ -265,7 +265,7 @@
       "es": "Doble Disparo",
       "de": "Doppelschuss",
       "fr": "Double Tir",
-      "ru": "Двойной Выстрел"
+      "ru": "??????? ???????"
     },
     "Lightweight Hull Reinforcement": {
       "es": "Refuerzo Estructural Aligerado",
@@ -307,7 +307,7 @@
       "es": "Modificación de Motor Limpio",
       "de": "Ausgewogenes Antriebstuning",
       "fr": "Optimisation de réacteur propre",
-      "ru": "«Чистая» Донастройка"
+      "ru": "«??????» ???????????"
     },
     "Kinetic Resistant Shields": {
       "es": "Escudos de Resistencia Cinética",
@@ -349,13 +349,13 @@
       "es": "Impulsores",
       "de": "Schubdüsen",
       "fr": "Moteurs",
-      "ru": "Маневровые двигатели"
+      "ru": "?????????? ?????????"
     },
     "Multi-cannon": {
       "es": "Multicañón",
       "de": "Mehrfachgeschütz",
       "fr": "Multi-cannon",
-      "ru": "Многоствольное орудие"
+      "ru": "?????????????? ??????"
     },
     "Missile Rack": {
       "es": "Batería de Misiles",
@@ -367,7 +367,7 @@
       "es": "Núcleo de Energía",
       "de": "Kraftwerk",
       "fr": "Générateur",
-      "ru": "Силовая установка"
+      "ru": "??????? ?????????"
     },
     "Chaff Launcher": {
       "es": "Lanzador de Señuelos",
@@ -379,31 +379,31 @@
       "es": "Interdictor de MDD",
       "de": "FSA-Unterbrecher",
       "fr": "Interdicteur FSD",
-      "ru": "FSD перехватчик"
+      "ru": "FSD ???????????"
     },
     "Shield Generator": {
       "es": "Generador de Escudos",
       "de": "Schildgenerator",
       "fr": "Générateur de Bouclier",
-      "ru": "Генератор щита"
+      "ru": "????????? ????"
     },
     "Point Defence": {
       "es": "Defensa de Punto",
       "de": "Punktverteidigung",
       "fr": "Défense ponctuelle",
-      "ru": "Точечная оборона"
+      "ru": "???????? ???????"
     },
     "Shield Booster": {
       "es": "Potenciador de Escudos",
       "de": "Schild-Booster",
       "fr": "Survolteur de Bouclier",
-      "ru": "Усилитель щита"
+      "ru": "????????? ????"
     },
     "Kill Warrant Scanner": {
       "es": "Escáner de Registro Criminal",
       "de": "Tötungsbefehl-Scanner",
       "fr": "Scanner d'avis de recherches",
-      "ru": "Сканер преступников"
+      "ru": "?????? ????????????"
     },
     "Rail Gun": {
       "es": "Cañón de Riel",
@@ -415,7 +415,7 @@
       "es": "Distribuidor de Energía",
       "de": "Energieverteiler",
       "fr": "Répartiteur de Puissance",
-      "ru": "Распределитель питания"
+      "ru": "?????????????? ???????"
     },
     "Fragment Cannon": {
       "es": "Cañón de Fragmentación",
@@ -475,7 +475,7 @@
       "es": "Láser de Pulso",
       "de": "Impulslaser",
       "fr": "Laser à Impulsion",
-      "ru": "Импульсный лазер"
+      "ru": "?????????? ?????"
     },
     "Refinery": {
       "es": "Refinería",
@@ -499,7 +499,7 @@
       "es": "Motor de Distorsión",
       "de": "Frameshiftantrieb",
       "fr": "FSD",
-      "ru": "Рамочно-Смесительный двигатель"
+      "ru": "???????-???????????? ?????????"
     },
     "Hatch Breaker Limpet Controller": {
       "es": "Lanzador Dron Extractor",
@@ -511,7 +511,7 @@
       "es": "Colector de Combustible",
       "de": "Treibstoffsammler",
       "fr": "Récupérateur de carburant",
-      "ru": "Топливозаборник"
+      "ru": "???????????????"
     },
     "Torpedo Pylon": {
       "es": "Lanzatorpedos",
@@ -529,523 +529,523 @@
       "es": "Células de Escudo",
       "de": "Schildzellenbank",
       "fr": "Cellules d'énergie",
-      "ru": "Щитонакопитель"
+      "ru": "??????????????"
     },
     "Aberrant Shield Pattern Analysis": {
       "es": "Análisis de Patrón de Escudo Aberrantes",
       "de": "Abweichende Schildeinsatz-Analysen",
       "fr": "Analyse de modèle de bouclier aberrante",
-      "ru": "Анализ аномального поведения щита"
+      "ru": "?????? ??????????? ????????? ????"
     },
     "Abnormal Compact Emission Data": {
       "es": "Compresión de Datos de Transmisiones Anormal",
       "de": "Anormale Kompakte Emissionsdaten",
       "fr": "Données d'émissions compactes anormales ",
-      "ru": "Аномальные компактные данные об излучении"
+      "ru": "?????????? ?????????? ?????? ?? ?????????"
     },
     "Adaptive Encryptors Capture": {
       "es": "Captura de Encriptadores Adaptativos",
       "de": "Adaptive Verschlüsselungserfassung",
-      "fr": "Capture d'encrypteurs adaptatifs",
-      "ru": "Захват адаптивного шифровальщика"
+      "fr": "Capture de cryptage évolutif",
+      "ru": "?????? ??????????? ?????????????"
     },
     "Anomalous Bulk Scan Data": {
       "es": "Datos de Escáner en Bruto Anómalos",
       "de": "Anormale Massen-Scan-Daten",
       "fr": "Fichier volumineux d'analyse anormale",
-      "ru": "Аномальный массив данных сканирования"
+      "ru": "?????????? ?????? ?????? ????????????"
     },
     "Anomalous FSD Telemetry": {
       "es": "Telemetría de MDD Anómala",
       "de": "Anormale FSA-Telemetrie",
       "fr": "Télémétrie FSD anormale",
-      "ru": "Аномальная телеметрия FSD"
+      "ru": "?????????? ?????????? FSD"
     },
     "Antimony": {
       "es": "Antimonio",
       "de": "Antimon",
       "fr": "Antimoine",
-      "ru": "Сурьма"
+      "ru": "??????"
     },
     "Arsenic": {
       "es": "Arsénico",
       "de": "Arsen",
       "fr": "Arsenic",
-      "ru": "Мышьяк"
+      "ru": "??????"
     },
     "Articulation Motors": {
       "es": "Motores de Articulación",
       "de": "Gelenkmotoren",
       "fr": "Moteur à articulation",
-      "ru": "Шарнирные моторы"
+      "ru": "????????? ??????"
     },
     "Atypical Disrupted Wake Echoes": {
       "es": "Ecos de Estelas Interrumpidas Atípicos",
       "de": "Atypische FSA-Stör-Aufzeichnungen",
       "fr": "Echos de sillages perturbés atypique",
-      "ru": "Атипичное эхо поврежденного следа"
+      "ru": "????????? ??? ????????????? ?????"
     },
     "Atypical Encryption Archives": {
       "es": "Archivos Encriptados Atípicos",
       "de": "Atypische Verschlüsselungsarchive",
       "fr": "Archives cryptées atypiques",
-      "ru": "Нетипичные архивы шифрования"
+      "ru": "?????????? ?????? ??????????"
     },
     "Basic Conductors": {
       "es": "Conductores Básicos",
       "de": "Einfache Leiter",
       "fr": "conducteur simple",
-      "ru": "Простые проводники"
+      "ru": "??????? ??????????"
     },
     "Biotech Conductors": {
       "es": "Conductores Biotecnológicos",
       "de": "Biotech-Leiter",
       "fr": "Conducteur biotechnique",
-      "ru": "Биотехнические проводники"
+      "ru": "?????????????? ??????????"
     },
     "Bromellite": {
       "es": "Bromelita",
       "de": "Bromellit",
       "fr": "Bromellite",
-      "ru": "Бромеллит"
+      "ru": "?????????"
     },
     "Cadmium": {
       "es": "Cadmio",
       "de": "Kadmium",
       "fr": "Cadmium",
-      "ru": "Кадмий"
+      "ru": "??????"
     },
     "Carbon": {
       "es": "Carbono",
       "de": "Kohlenstoff",
       "fr": "Carbone",
-      "ru": "Углерод"
+      "ru": "???????"
     },
     "Chemical Distillery": {
       "es": "Destilería Química",
       "de": "Chemiedestillerie",
       "fr": "Distilerie chimique",
-      "ru": "Оборудование для перегонки химикатов"
+      "ru": "???????????? ??? ????????? ?????????"
     },
     "Chemical Manipulators": {
       "es": "Manipuladores Químicos",
       "de": "Chemische Manipulatoren",
       "fr": "Manipulateur chimique",
-      "ru": "Манипуляторы для работы с химикатами"
+      "ru": "???????????? ??? ?????? ? ??????????"
     },
     "Chemical Processors": {
       "es": "Procesadores Químicos",
       "de": "Chemische Prozessoren",
       "fr": "Processeur chimique",
-      "ru": "Оборудование для химобработки"
+      "ru": "???????????? ??? ????????????"
     },
     "Chemical Storage Units": {
       "es": "Unidades de Almacenamiento Químico",
       "de": "Chemische Lagereinheiten",
       "fr": "Unités de stockages chimiques",
-      "ru": "Контейнеры для химикатов"
+      "ru": "?????????? ??? ?????????"
     },
     "Chromium": {
       "es": "Cromo",
       "de": "Chrom",
       "fr": "Chrome",
-      "ru": "Хром"
+      "ru": "????"
     },
     "Classified Scan Databanks": {
       "es": "Datos de Escáner Clasificados",
       "de": "Scan-Datenbanken unter Verschluss",
       "fr": "Banques de données d'analyse classifiées",
-      "ru": "Засекреченные базы данных сканирования"
+      "ru": "????????????? ???? ?????? ????????????"
     },
     "Classified Scan Fragment": {
       "es": "Fragmento de Escáner Clasificado",
       "de": "Geheimes Scan Fragment",
       "fr": "Fragment de Scan Classifié",
-      "ru": "Засекреченные фрагменты данных сканирования"
+      "ru": "????????????? ????????? ?????? ????????????"
     },
     "CMM Composite": {
       "es": "Compuesto CMM",
       "de": "CMM-Komposit",
       "fr": "composite MMC",
-      "ru": "СММ Композит"
+      "ru": "??? ????????"
     },
     "Compact Composites": {
       "es": "Compuestos Compactos",
       "de": "Kompakt-Komposit",
       "fr": "Composites compacts",
-      "ru": "Спрессованные композиты"
+      "ru": "????????????? ?????????"
     },
     "Compound Shielding": {
       "es": "Escudos Compuestos",
       "de": "Verbundschilde",
       "fr": "Protection Composite",
-      "ru": "Многоступенчатая защита"
+      "ru": "???????????????? ??????"
     },
     "Conductive Ceramics": {
       "es": "Cerámicas Conductivas",
       "de": "Elektrokeramiken",
       "fr": "Conducteur en céramique",
-      "ru": "Проводящая керамика"
+      "ru": "?????????? ????????"
     },
     "Conductive Components": {
       "es": "Componentes Conductivos",
       "de": "Leitfähige Komponenten",
       "fr": "Composant conducteur",
-      "ru": "Проводящие компоненты"
+      "ru": "?????????? ??????????"
     },
     "Conductive Polymers": {
       "es": "Polímeros Conductivos",
       "de": "Leitfähige Polymere",
       "fr": "Conducteur en polymere",
-      "ru": "Проводящие полимеры"
+      "ru": "?????????? ????????"
     },
     "Configurable Components": {
       "es": "Componentes Configurables",
       "de": "Konfigurierbare Komponenten",
       "fr": "Composant paramétrable",
-      "ru": "Настраиваемые компоненты"
+      "ru": "????????????? ??????????"
     },
     "Core Dynamics Composites": {
       "es": "Compuestos de Core Dynamics",
       "de": "Core Dynamics Kompositwerkstoffe",
       "fr": "Composites Core Dynamics",
-      "ru": "Композиты Core Dynamics"
+      "ru": "????????? Core Dynamics"
     },
     "Cracked Industrial Firmware": {
       "es": "Firmware Industrial Pirateado",
       "de": "Gecrackte Industrie-Firmware",
       "fr": "Micrologiciel industriel piraté",
-      "ru": "Взломанные промышленные микропрограммы"
+      "ru": "?????????? ???????????? ??????????????"
     },
     "Crystal Shards": {
       "es": "Piedras de Cristal",
       "de": "Kristallscherben",
       "fr": "Eclat de cristal",
-      "ru": "Осколки кристаллов"
+      "ru": "??????? ??????????"
     },
     "Datamined Wake Exceptions": {
       "es": "Excepciones en Análisis de Estelas",
       "de": "FSA-Daten-Cache-Ausnahmen",
       "fr": "Exploration de données de sillage anormales",
-      "ru": "Искл. из глубинного анализа данных следа"
+      "ru": "????. ?? ?????????? ??????? ?????? ?????"
     },
     "Decoded Emission Data": {
       "es": "Datos de Emisión Descodificados",
       "de": "Entschlüsselte Emissionsdaten",
       "fr": "Données d'émissions décodées",
-      "ru": "Расшифрованные данные об излучении"
+      "ru": "?????????????? ?????? ?? ?????????"
     },
     "Distorted Shield Cycle Recordings": {
       "es": "Registros de Ciclo de Escudo Distorsionados",
       "de": "Gestörte Schildzyklus-Aufzeichnungen",
       "fr": "Enregistrements de cycles de bouclier déformés",
-      "ru": "Поврежденные цикличные записи щита"
+      "ru": "???????????? ????????? ?????? ????"
     },
     "Divergent Scan Data": {
       "es": "Datos de Escáner Divergentes",
       "de": "Divergente Scandaten",
       "fr": "Données d'analyse divergentes",
-      "ru": "Неформатные данные сканирования"
+      "ru": "??????????? ?????? ????????????"
     },
     "Eccentric Hyperspace Trajectories": {
       "es": "Trayectorias de Hiperespacio Excéntricas",
       "de": "Exzentrische Hyperraum-Routen",
       "fr": "Trajectoires hyperespace exentriques",
-      "ru": "Аномальные траектории в гиперпространстве"
+      "ru": "?????????? ?????????? ? ?????????????????"
     },
     "Electrochemical Arrays": {
       "es": "Matriz Electroquímica",
       "de": "Elektrochemische Detektoren",
       "fr": "Réseaux électrochimique",
-      "ru": "Электрохимические массивы"
+      "ru": "????????????????? ???????"
     },
     "Emergency Power Cells": {
       "es": "Celulas de Energía de Emergencia",
       "de": "Notfall-Energiezellen",
       "fr": "Cellules d'énergie d'urgence",
-      "ru": "Аварийные энергоячейки"
+      "ru": "????????? ????????????"
     },
     "Energy Grid Assembly": {
       "es": "Red de Energía",
       "de": "Energienetz-Gruppe",
       "fr": "Grille d'assemblage d'énergie",
-      "ru": "Электросеть в сборе"
+      "ru": "??????????? ? ?????"
     },
     "Exceptional Scrambled Emission Data": {
       "es": "Datos de Transmisiones Codificadas Excepcionales",
       "de": "Außergewöhnliche verschlüsselte Emissionsdaten",
       "fr": "Données d'émissions brouillées exceptionnelles" ,
-      "ru": "Исключительные зашифрованные данные об изл."
+      "ru": "?????????????? ????????????? ?????? ?? ???."
     },
     "Exhaust Manifold": {
       "es": "Colector de Escape",
       "de": "Krümmer",
       "fr": "Collecteur d'échappement",
-      "ru": "Выпускной коллектор"
+      "ru": "????????? ?????????"
     },
     "Exquisite Focus Crystals": {
       "es": "Cristales de Enfoque Exquisitos",
       "de": "Erlesene Laserkristalle",
       "fr": "Cristaux de focalisation sans défaut",
-      "ru": "Отборные фокусировочные кристаллы"
+      "ru": "???????? ?????????????? ?????????"
     },
     "Filament Composites": {
       "es": "Compuestos de Filamentos",
       "de": "Filament-Komposite",
       "fr": "Filament composite",
-      "ru": "Волокнистые композиты"
+      "ru": "??????????? ?????????"
     },
     "Flawed Focus Crystals": {
       "es": "Cristales de Enfoque Defectuosos",
       "de": "Fehlerhafte Fokuskristalle",
       "fr": "Cristaux de focalisation imparfaits",
-      "ru": "Поврежденные фокусировочные кристаллы"
+      "ru": "???????????? ?????????????? ?????????"
     },
     "Focus Crystals": {
       "es": "Cristales de Enfoque",
       "de": "Laserkristalle",
       "fr": "Cristaux de focalisation",
-      "ru": "Фокусировочные Кристаллы"
+      "ru": "?????????????? ?????????"
     },
     "Galvanising Alloys": {
       "es": "Aleaciones Galvanizadas",
       "de": "Galvanisierende Legierungen",
       "fr": "Alliage galvanique",
-      "ru": "Сплавы для гальванизации"
+      "ru": "?????? ??? ?????????????"
     },
     "Germanium": {
       "es": "Germanio",
       "de": "Germanium",
       "fr": "Germanium",
-      "ru": "Германий"
+      "ru": "????????"
     },
     "Grid Resistors": {
       "es": "Red Resistiva",
       "de": "Gitterwiderstände",
       "fr": "Résistance à grille",
-      "ru": "Наборные резисторы"
+      "ru": "???????? ?????????"
     },
     "Hardware Diagnostic Sensor": {
       "es": "Sensor de Diagnóstico de Hardware",
       "de": "Hardware-Diagnostiksensor",
       "fr": "Capteur de diagnostic matériel",
-      "ru": "Сенсор диагностики оборудования"
+      "ru": "?????? ??????????? ????????????"
     },
     "Heat Conduction Wiring": {
       "es": "Cableado de Conducción Calorífica",
       "de": "Wärmeleitungsverdrahtung",
       "fr": "Câblage de conduction thermique",
-      "ru": "Теплопроводящие провода"
+      "ru": "??????????????? ???????"
     },
     "Heat Dispersion Plate": {
       "es": "Placa de Dispersión de Calor",
       "de": "Wärmeverteilungsplatte",
       "fr": "Plaque de dissipation thermique",
-      "ru": "Теплорассеивающая пластина"
+      "ru": "????????????????? ????????"
     },
     "Heat Exchangers": {
       "es": "Intercambiadores de Calor",
       "de": "Wärmeaustauscher",
       "fr": "Echangeurs de chaleur",
-      "ru": "Теплообменные агрегаты"
+      "ru": "????????????? ????????"
     },
     "Heat Resistant Ceramics": {
       "es": "Cerámicas Resistentes al Calor",
       "de": "Hitzefeste Keramik",
       "fr": "Céramiques résistantes à la chaleur",
-      "ru": "Жаропрочная керамика"
+      "ru": "??????????? ????????"
     },
     "Heat Vanes": {
       "es": "Palas Térmicas",
       "de": "Wärmeleitbleche",
       "fr": "Vannes thermiques",
-      "ru": "Тепловые заслонки"
+      "ru": "???????? ????????"
     },
     "Heatsink Interlink": {
       "es": "Interconectores de Eyector Térmico",
       "de": "Kühlkörperverbinder",
       "fr": "Interconnexion de dissipateur",
-      "ru": "Радиаторный соединитель"
+      "ru": "??????????? ???????????"
     },
     "High Density Composites": {
       "es": "Compuestos de Alta Densidad",
       "de": "Komposite hoher Dichte",
       "fr": "Composites à haute densité",
-      "ru": "Высокоплотностные композиты"
+      "ru": "????????????????? ?????????"
     },
     "HN Shock Mount": {
       "es": "Suspensión HN",
       "de": "HN-Dämpferaufhängung",
       "fr": "Protection antichoc HP",
-      "ru": "Разрядная установка HN"
+      "ru": "????????? ????????? HN"
     },
     "Hybrid Capacitors": {
       "es": "Capacitadores Híbridos",
       "de": "Hybridkondensatoren",
       "fr": "Condensateurs hybrides",
-      "ru": "Гибридные конденсаторы"
+      "ru": "????????? ????????????"
     },
     "Imperial Shielding": {
       "es": "Escudos Imperiales",
       "de": "Imperiale Schilde",
       "fr": "Protection impériale",
-      "ru": "Имперская защита"
+      "ru": "????????? ??????"
     },
     "Improvised Components": {
       "es": "Componentes Improvisados",
       "de": "Behelfskomponenten",
       "fr": "Composants improvisés",
-      "ru": "Кустарные компоненты"
+      "ru": "????????? ??????????"
     },
     "Inconsistent Shield Soak Analysis": {
       "es": "Analisis de Absorcion de Esucudos Inconsistente",
       "de": "Inkonsistente Schildleistungsanalyse",
       "fr": "Analyse d'absorption de bouclier incohérente",
-      "ru": "Неполный анализ поглощения щита"
+      "ru": "???????? ?????? ?????????? ????"
     },
     "Insulating Membrane": {
       "es": "Membrana Aislante",
       "de": "Isoliermembran",
       "fr": "Membrane isolante",
-      "ru": "Изолирующая мембрана"
+      "ru": "??????????? ????????"
     },
     "Ion Distributor": {
       "es": "Distribuidor de Iones",
       "de": "Ionenverteiler",
       "fr": "Distributeur d'ions",
-      "ru": "Ионный распределитель"
+      "ru": "?????? ??????????????"
     },
     "Iron": {
       "es": "Hierro",
       "de": "Eisen",
       "fr": "Fer",
-      "ru": "Железо"
+      "ru": "??????"
     },
     "Irregular Emission Data": {
       "es": "Datos de Emisión Irregulares",
       "de": "Irreguläre Emissionsdaten",
       "fr": "Données d'émissions irrégulières",
-      "ru": "Нестандартные данные об излучении"
+      "ru": "????????????? ?????? ?? ?????????"
     },
     "Magnetic Emitter Coil": {
       "es": "Bobina de Emisión Magnética",
       "de": "Magnetische Emitterspule",
       "fr": "Bobine d'émission magnétique",
-      "ru": "Спираль магнитного излучателя"
+      "ru": "??????? ?????????? ??????????"
     },
     "Manganese": {
       "es": "Manganeso",
       "de": "Mangan",
       "fr": "Manganese",
-      "ru": "Марганец"
+      "ru": "????????"
     },
     "Mechanical Components": {
       "es": "Componentes Mecánicos",
       "de": "Mechanische Komponenten",
       "fr": "Composants mécaniques",
-      "ru": "Механические компоненты"
+      "ru": "???????????? ??????????"
     },
     "Mechanical Equipment": {
       "es": "Equipamiento Mecánico",
       "de": "Mechanisches Equipment",
       "fr": "Equipement mécanique",
-      "ru": "Механическое оборудование"
+      "ru": "???????????? ????????????"
     },
     "Mechanical Scrap": {
       "es": "Chatarra Mecánica",
       "de": "Mechanischer Schrott",
       "fr": "Ferraille mécanique",
-      "ru": "Механические отходы"
+      "ru": "???????????? ??????"
     },
     "Mercury": {
       "es": "Mercurio",
       "de": "Quecksilber",
       "fr": "Mercure",
-      "ru": "Ртуть"
+      "ru": "?????"
     },
     "Micro Controllers": {
       "es": "Microcontroladores",
       "de": "Mikrocontroller",
       "fr": "Microcontrôleurs",
-      "ru": "Микроконтроллеры"
+      "ru": "????????????????"
     },
     "Micro-Weave Cooling Hoses": {
       "es": "Mangueras de Refrigeración de Micro-tejidos",
       "de": "Mikroflecht-Kühlschläuche",
       "fr": "Tuyaux de refroidissement à microfilaments",
-      "ru": "Шланги системы охлаждения малых диаметров"
+      "ru": "?????? ??????? ?????????? ????? ?????????"
     },
     "Military Grade Alloys": {
       "es": "Aleaciones de Grado Militar",
       "de": "Militärqualitätslegierungen",
       "fr": "Alliage militaire",
-      "ru": "Сплавы военного назначения"
+      "ru": "?????? ???????? ??????????"
     },
     "Military Supercapacitors": {
       "es": "Supercapacitadores Militares",
       "de": "Militärische Superkondensatoren",
       "fr": "Supercondensateurs militaires",
-      "ru": "Военные суперконденсаторы"
+      "ru": "??????? ?????????????????"
     },
     "Modified Consumer Firmware": {
       "es": "Firmware de Consumo Modificado",
       "de": "Modifizierte Consumer-Firmware",
       "fr": "Micrologiciel consommateur modifié",
-      "ru": "Измененные пользовательские микропрограммы"
+      "ru": "?????????? ???????????????? ??????????????"
     },
     "Modified Embedded Firmware": {
       "es": "Firmware Integrado Modificado",
       "de": "Modifizierte integrierte Firmware",
       "fr": "Micrologiciel intégré modifié",
-      "ru": "Измененные встроенные микропрограммы"
+      "ru": "?????????? ?????????? ??????????????"
     },
     "Modular Terminals": {
       "es": "Terminales Modulares",
       "de": "Modulterminals",
       "fr": "Terminaux modulaires",
-      "ru": "Модульные терминалы"
+      "ru": "????????? ?????????"
     },
     "Molybdenum": {
       "es": "Molibdeno",
       "de": "Molibdän",
       "fr": "Molybdene",
-      "ru": "Молибден"
+      "ru": "????????"
     },
     "Nanobreakers": {
       "es": "Nanorrompedores",
       "de": "Nanozertrümmerer",
       "fr": "Nanodestructeurs",
-      "ru": "Нанопрерыватели"
+      "ru": "???????????????"
     },
     "Neofabric Insulation": {
       "es": "Neotejido Aislante",
       "de": "Neogewebe-Isolierung",
       "fr": "Isolant en néotextile",
-      "ru": "Высокотехнологичная изоляция"
+      "ru": "??????????????????? ????????"
     },
     "Nickel": {
       "es": "Níquel",
       "de": "Nickel",
       "fr": "Nickel",
-      "ru": "Никель"
+      "ru": "??????"
     },
     "Niobium": {
       "es": "Niobio",
       "de": "Niobium",
       "fr": "Niobium",
-      "ru": "Ниобий"
+      "ru": "??????"
     },
     "Open Symmetric Keys": {
       "es": "Claves Simétricas Abiertas",
       "de": "Offene symmetrische Schlüssel",
       "fr": "Clés symétriques ouverte",
-      "ru": "Открытые симметричные ключи"
+      "ru": "???????? ???????????? ?????"
     },
     "Osmium": {
       "es": "Osmio",
       "de": "Osmium",
       "fr": "Osmium",
-      "ru": "Осмий"
+      "ru": "?????"
     },
     "Pattern Alpha Obelisk Data": {
       "es": "Datos de Obelisco de Patrón Alpha",
@@ -1081,277 +1081,277 @@
       "es": "Datos de Frecuencias de Escudo Peculiares",
       "de": "Verdächtige Schildfrequenz-Daten",
       "fr": "Données de Fréquences de bouclier Singulières",
-      "ru": "Специфические данные о частоте щитов"
+      "ru": "????????????? ?????? ? ??????? ?????"
     },
     "Pharmaceutical Isolators": {
       "es": "Aislantes Farmacéuticos",
       "de": "Pharmazeutische Isolatoren",
       "fr": "Isolants pharmaceutiques",
-      "ru": "Фармацевтические изоляционные материалы"
+      "ru": "???????????????? ???????????? ?????????"
     },
     "Phase Alloys": {
       "es": "Aleaciones de Fase",
       "de": "Phasenlegierungen",
       "fr": "Alliages de phase",
-      "ru": "Фазовые сплавы"
+      "ru": "??????? ??????"
     },
     "Phosphorus": {
       "es": "Fósforo",
       "de": "Phosphor",
       "fr": "Phosphore",
-      "ru": "Фосфор"
+      "ru": "??????"
     },
     "Platinum": {
       "es": "Platino",
       "de": "Platin",
       "fr": "platinium",
-      "ru": "Платина"
+      "ru": "???????"
     },
     "Polonium": {
       "es": "Polonio",
       "de": "Polonium",
       "fr": "Polonium",
-      "ru": "Полоний"
+      "ru": "???????"
     },
     "Polymer Capacitors": {
       "es": "Capacitadores de Polímeros",
       "de": "Polymerkondensatoren",
       "fr": "Condensateurs en polymères",
-      "ru": "Полимерные конденсаторы"
+      "ru": "?????????? ????????????"
     },
     "Power Converter": {
       "es": "Convertidor de Energía",
       "de": "Energiekonverter",
       "fr": "Convertisseur de puissance",
-      "ru": "Преобразователь энергии"
+      "ru": "??????????????? ???????"
     },
     "Power Transfer Bus": {
       "es": "Conductos de Transferencia de Energía",
       "de": "Energietransferbus",
       "fr": "Conduit de transfert d’énergie",
-      "ru": "Энергообменная шина"
+      "ru": "?????????????? ????"
     },
     "Praseodymium": {
       "es": "Praseodimio",
       "de": "Praseodym",
       "fr": "Praseodyme",
-      "ru": "Празеодим"
+      "ru": "?????????"
     },
     "Precipitated Alloys": {
       "es": "Aleaciones de Precipitación",
       "de": "Gehärtete Legierungen",
       "fr": "Alliages précipités",
-      "ru": "Осажденные сплавы"
+      "ru": "?????????? ??????"
     },
     "Proprietary Composites": {
       "es": "Compuestos con Patente",
       "de": "Kompositwerkstoffe",
       "fr": "Composites brevetés",
-      "ru": "Патентованные композиты"
+      "ru": "????????????? ?????????"
     },
     "Proto Heat Radiators": {
       "es": "Protorradiadores Térmicos",
       "de": "Proto-Wärmestrahler",
       "fr": "Proto-radiateurs",
-      "ru": "Прототипы теплоизлучателей"
+      "ru": "????????? ????????????????"
     },
     "Proto Light Alloys": {
       "es": "Protoaleaciones Ligeras",
       "de": "Leichte Legierungen (Proto)",
       "fr": "Proto-alliages légers",
-      "ru": "Опытные легкие сплавы"
+      "ru": "??????? ?????? ??????"
     },
     "Proto Radiolic Alloys": {
       "es": "Aleaciones Protorradiadas",
       "de": "Radiologische Legierungen (Proto)",
       "fr": "Proto-alliages radiologiques",
-      "ru": "Сплавы для изготовления зондов"
+      "ru": "?????? ??? ???????????? ??????"
     },
     "Radiation Baffle": {
       "es": "Deflector de Radiación",
       "de": "Strahlungsabweiser",
       "fr": "Ecran antiradiation",
-      "ru": "Отражатель излучения"
+      "ru": "?????????? ?????????"
     },
     "Refined Focus Crystals": {
       "es": "Cristales de Enfoque Refinados",
       "de": "Raffinierte Laserkristalle",
       "fr": "Cristaux de focalisation raffinés",
-      "ru": "Обработанные фокусировочные кристаллы"
+      "ru": "???????????? ?????????????? ?????????"
     },
     "Reinforced Mounting Plate": {
       "es": "Placa de Anclaje Reforzada",
       "de": "Verstärkte Trägerplatte",
       "fr": "Plaque de montage renforcée",
-      "ru": "Усиленная монтажная плита"
+      "ru": "????????? ????????? ?????"
     },
     "Ruthenium": {
       "es": "Rutenio",
       "de": "Ruthenium",
       "fr": "Ruthenium",
-      "ru": "Рутений"
+      "ru": "???????"
     },
     "Salvaged Alloys": {
       "es": "Aleaciones Recuperadas",
       "de": "Geborgene Legierungen",
       "fr": "Alliages récupérés",
-      "ru": "Захваченные сплавы"
+      "ru": "??????????? ??????"
     },
     "Samarium": {
       "es": "Samario",
       "de": "Samarium",
       "fr": "Samarium",
-      "ru": "Самарий"
+      "ru": "???????"
     },
     "Security Firmware Patch": {
       "es": "Parche de Firmware de Seguridad",
       "de": "Sicherheits-Firmware-Patch",
       "fr": "Mise à jour de micrologiciel de sécurité",
-      "ru": "Обновление для защитной микропрограммы"
+      "ru": "?????????? ??? ???????? ??????????????"
     },
     "Selenium": {
       "es": "Selenio",
       "de": "Selen",
       "fr": "Selenium",
-      "ru": "Селен"
+      "ru": "?????"
     },
     "Shield Emitters": {
       "es": "Emisores de Escudo",
       "de": "Schildemitter",
       "fr": "Emetteurs de bouclier",
-      "ru": "Щитоизлучатели"
+      "ru": "??????????????"
     },
     "Shielding Sensors": {
       "es": "Sensores de Escudo",
       "de": "Schildsensoren",
       "fr": "Capteurs de bouclier",
-      "ru": "Сенсоры системы экранирования"
+      "ru": "??????? ??????? ?????????????"
     },
     "Specialised Legacy Firmware": {
       "es": "Firmware Heredado Especializado",
       "de": "Spezial-Legacy-Firmware",
       "fr": "Micrologiciel spécialisé périmé",
-      "ru": "Спец. микропрограммы предыдущего поколения"
+      "ru": "????. ?????????????? ??????????? ?????????"
     },
     "Strange Wake Solutions": {
       "es": "Extrañas Soluciones de Estelas",
       "de": "Seltsame FSA-Zielorte",
       "fr": "Solutions de sillage anormales",
-      "ru": "Странные расчеты следа"
+      "ru": "???????? ??????? ?????"
     },
     "Sulphur": {
       "es": "Azufre",
       "de": "Schwefel",
       "fr": "Soufre",
-      "ru": "Сера"
+      "ru": "????"
     },
     "Tagged Encryption Codes": {
       "es": "Códigos de Encriptación Marcados",
       "de": "Getaggte Verschlüsselungscodes",
       "fr": "Codes de cryptage marqué",
-      "ru": "Меченые шифровальные коды"
+      "ru": "??????? ???????????? ????"
     },
     "Technetium": {
       "es": "Tecnecio",
       "de": "Technetium",
       "fr": "Technetium",
-      "ru": "Технеций"
+      "ru": "????????"
     },
     "Telemetry Suite": {
       "es": "Paquete de Telemetría",
       "de": "Telemetrie-Paket",
       "fr": "Suite de télémétrie",
-      "ru": "Телеметрический комплект"
+      "ru": "??????????????? ????????"
     },
     "Tellurium": {
       "es": "Teluro",
       "de": "Tellur",
       "fr": "Tellure",
-      "ru": "Теллур"
+      "ru": "??????"
     },
     "Tempered Alloys": {
       "es": "Aleaciones Templadas",
       "de": "Vergütete Legierungen",
       "fr": "Alliages tempérés",
-      "ru": "Жаропрочная керамика"
+      "ru": "??????????? ????????"
     },
     "Thermic Alloys": {
       "es": "Aleaciones Térmicas",
       "de": "Thermische Legierungen",
       "fr": "Alliages thermiques",
-      "ru": "Термические сплавы"
+      "ru": "??????????? ??????"
     },
     "Tin": {
       "es": "Estaño",
       "de": "Zinn",
       "fr": "Etain",
-      "ru": "Олово"
+      "ru": "?????"
     },
     "Tungsten": {
       "es": "Tungsteno",
       "de": "Wolfram",
       "fr": "Tungstène",
-      "ru": "Вольфрам"
+      "ru": "????????"
     },
     "Unexpected Emission Data": {
       "es": "Datos de Emisión Inesperados",
       "de": "Unerwartete Emissionsdaten",
       "fr": "Données d'émissions inattendues",
-      "ru": "Неожиданные данные об излучении"
+      "ru": "??????????? ?????? ?? ?????????"
     },
     "Unidentified Scan Archives": {
       "es": "Archivos de Escáner no Identificados",
       "de": "Unidentifizierte Scan-Archive",
       "fr": "Analyse d'archives non identifiées",
-      "ru": "Неопознанные архивы сканирования"
+      "ru": "???????????? ?????? ????????????"
     },
     "Unknown Fragment": {
       "es": "Fragmento Desconocido",
       "de": "Unbekanntes Fragment",
       "fr": "Fragment inconnu",
-      "ru": "Неизвестный фрагмент"
+      "ru": "??????????? ????????"
     },
     "Untypical Shield Scans": {
       "es": "Escáner de Escudos Atípico",
       "de": "Untypische Schildscans",
       "fr": "Analyses de bouclier atypique",
-      "ru": "Нетипичные данные сканирования щитов"
+      "ru": "?????????? ?????? ???????????? ?????"
     },
     "Unusual Encrypted Files": {
       "es": "Ficheros Encriptados Inusuales",
       "de": "Ungewöhnliche verschlüsselte Files",
       "fr": "Fichiers cryptés insolites",
-      "ru": "Особые зашифрованные файлы"
+      "ru": "?????? ????????????? ?????"
     },
     "Vanadium": {
       "es": "Vanadio",
       "de": "Vanadium",
       "fr": "Vanadium",
-      "ru": "Ванадий"
+      "ru": "???????"
     },
     "Worn Shield Emitters": {
       "es": "Emisor de Escudos Desgastado",
       "de": "Gebrauchte Schildemitter",
       "fr": "Émetteurs de bouclier usé",
-      "ru": "Изношенные щитоизлучатели"
+      "ru": "?????????? ??????????????"
     },
     "Yttrium": {
       "es": "Ytrio",
       "de": "Yttrium",
       "fr": "Yttrium",
-      "ru": "Иттрий"
+      "ru": "??????"
     },
     "Zinc": {
       "es": "Zinc",
       "de": "Zink",
       "fr": "Zinc",
-      "ru": "Цинк"
+      "ru": "????"
     },
     "Zirconium": {
       "es": "Circonio",
       "de": "Zirconium",
       "fr": "Zirconium",
-      "ru": "Цирконий"
+      "ru": "????????"
     },
     "ECM": {
       "es": "Contramedida",
@@ -1411,43 +1411,43 @@
       "es": "Mercancía",
       "de": "Handelsware",
       "fr": "Marchandise",
-      "ru": "Товар"
+      "ru": "?????"
     },
     "Commodities": {
       "es": "Mercancías",
       "de": "Handelswaren",
       "fr": "Marchandises",
-      "ru": "Товары"
+      "ru": "??????"
     },
     "Material": {
       "es": "Material",
       "de": "Material",
       "fr": "Matériau",
-      "ru": "Материал"
+      "ru": "????????"
     },
     "Materials": {
       "es": "Materiales",
       "de": "Materialien",
       "fr": "Matériaux",
-      "ru": "Материалы"
+      "ru": "?????????"
     },
     "Type": {
       "es": "Tipo",
       "de": "Typ",
       "fr": "Type",
-      "ru": "Тип"
+      "ru": "???"
     },
     "Name": {
       "es": "Nombre",
       "de": "Name",
       "fr": "Nom",
-      "ru": "Имя"
+      "ru": "???"
     },
     "Progress": {
       "es": "Progreso",
       "de": "Fortschritt",
       "fr": "Progression",
-      "ru": "Прогресс"
+      "ru": "????????"
     },
     "Last update: ": {
       "es": "Ultima actualización",
@@ -1513,7 +1513,7 @@
       "es": ": elaborable",
       "de": ": baubar",
       "fr": ": craft disponible",
-      "ru": ": можно изготовить"
+      "ru": ": ????? ??????????"
     },
     "Reset": {
       "es": "Reiniciar",
@@ -1555,25 +1555,25 @@
       "es": "Ayuda",
       "de": "Hilfe",
       "fr": "Aide",
-      "ru": "Помощь"
+      "ru": "??????"
     },
     "Quit": {
       "es": "Salir",
       "de": "Beenden",
       "fr": "Quitter",
-      "ru": "Выйти"
+      "ru": "?????"
     },
     "OK": {
       "es": "OK",
       "de": "OK",
       "fr": "OK",
-      "ru": "ОК"
+      "ru": "??"
     },
     "Cancel": {
       "es": "Cancelar",
       "de": "Abbrechen",
       "fr": "Annuler",
-      "ru": "Отмена"
+      "ru": "??????"
     },
     "Input a shortcut that's going to be used to show the window": {
       "es": "Introduce el acceso directo que será utilizado para mostrar la ventana",
@@ -1591,7 +1591,7 @@
       "es": "Error",
       "de": "Fehler",
       "fr": "Erreur",
-      "ru": "Ошибка"
+      "ru": "??????"
     },
     "The requested shortcut ({0}) is invalid": {
       "es": "El acceso directo solicitado ({0}) no es válido",
@@ -1627,7 +1627,7 @@
       "es": "Favorito",
       "de": "Favoriten",
       "fr": "Favoris",
-      "ru": "Избранное"
+      "ru": "?????????"
     },
     "Ignored": {
       "es": "Ignorado",
@@ -1639,13 +1639,13 @@
       "es": "Elaborable",
       "de": "Baubare",
       "fr": "Craftable",
-      "ru": "Доступны для изготовления"
+      "ru": "???????? ??? ????????????"
     },
     "Non Craftable": {
       "es": "No Elaborable",
       "de": "Nicht Baubare",
       "fr": "Non Craftable",
-      "ru": "Не доступны для изготовления"
+      "ru": "?? ???????? ??? ????????????"
     },
     "Missing Commodities": {
       "es": "Mercancía Perdida",
@@ -1657,7 +1657,7 @@
       "es": "Todo",
       "de": "Alle",
       "fr": "Tous",
-      "ru": "Всё"
+      "ru": "???"
     },
     "An error has been thrown by the application:": {
       "es": "Se ha producido un error:",
@@ -1675,7 +1675,7 @@
       "es": "Salir",
       "de": "Schließen",
       "fr": "Fermer",
-      "ru": "Закрыть"
+      "ru": "???????"
     },
     "Select a new log directory": {
       "es": "Selecciona un nuevo directorio de logs",
@@ -1699,7 +1699,7 @@
       "es": "Aviso",
       "de": "Warnung",
       "fr": "Avertissement",
-      "ru": "Предупреждение"
+      "ru": "??????????????"
     },
     "You did not select a log directory, EDEngineer won't be able to track changes. You can still use the app manually though.": {
       "es": "No ha seleccionado un directorio de registro, EDEngineer no podrá realizar seguimiento de los cambios. Todavía puedes usar la aplicación manualmente.",
@@ -1723,7 +1723,7 @@
       "es": "Cambiar idioma",
       "de": "Sprache wählen",
       "fr": "Choisissez la langue",
-      "ru": "Выбрать язык"
+      "ru": "??????? ????"
     },
     "Surface prospecting": {
       "es": "Prospección de superficie",
